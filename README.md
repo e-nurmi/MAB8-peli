@@ -38,8 +38,6 @@ Selain tallentaa paikallisesti vain ennätystuloksen (hiscore) localStorageen. T
 
 ## Tekijä
 
-**E.Nurmi**
-
 Konsepti, pedagoginen suunnittelu ja toteutus:
 Eero Nurmi
 
