@@ -1,6 +1,6 @@
 # MAB8-peli
 
-Selainpohjainen matematiikkapeli MAB8-kurssin keskeisten perustaitojen harjoitteluun.
+Selainpohjainen matematiikkapeli MAB8-moduulin keskeisten perustaitojen harjoitteluun.
 
 Peli syntyi opetushavainnosta: opiskelijoille funktion arvon laskeminen, derivaatan tulkinta ja kuvaajien lukeminen eivät aina automatisoidu pelkillä perinteisillä tehtävillä. Tavoitteena oli rakentaa mahdollisimman kevyt harjoitteluympäristö, joka toimii yhdestä HTML-tiedostosta ilman ulkoisia kirjastoja.
 
