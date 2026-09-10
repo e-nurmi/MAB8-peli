@@ -516,6 +516,9 @@ function nextTask(){
 function endGame(){
 
     clearInterval(timer);
+    
+    answersEl.innerHTML = "";
+
 
     questionEl.innerHTML=`
         <h2>MAB8-peli päättyi</h2>
