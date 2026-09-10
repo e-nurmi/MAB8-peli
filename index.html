@@ -541,6 +541,31 @@ function endGame(){
     Uusi peli
 </button>
 
+setTimeout(() => {
+
+    const restartArea =
+        document.getElementById("restartArea");
+
+    if(restartArea){
+
+        restartArea.innerHTML = `
+            <button
+                onclick="location.reload()"
+                style="
+                    padding:12px 25px;
+                    border:none;
+                    border-radius:10px;
+                    font-size:1rem;
+                    cursor:pointer;
+                ">
+                Uusi peli
+            </button>
+        `;
+    }
+
+}, 2000);
+
+
 
         <hr style="margin:25px 0;">
 
