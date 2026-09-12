@@ -49,4 +49,13 @@ Toteutettu tekoälyavusteisesti käyttäen Microsoft Copilotia.
 
 ## Lisenssi
 
-Vapaasti käytettävissä opetuksessa.
+MIT-lisenssi
+
+Lyhyesti:
+
+Saat käyttää, muokata ja jakaa tätä vapaasti.
+
+Säilytä alkuperäinen tekijä- ja lisenssitieto mukana.
+
+Ohjelma tarjotaan ilman takuita.
+
