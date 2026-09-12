@@ -36,6 +36,10 @@ Peli ei kerää henkilötietoja.
 
 Selain tallentaa paikallisesti vain ennätystuloksen (hiscore) localStorageen. Tietoja ei lähetetä palvelimelle.
 
+Käyttötilastoja kerätään anonyymisti
+GoatCounter-palvelun avulla.
+
+
 ## Tekijä
 
 Konsepti, pedagoginen suunnittelu ja toteutus:
